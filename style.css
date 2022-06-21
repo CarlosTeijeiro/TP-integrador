@@ -118,7 +118,7 @@ nav .navegador li a:hover , nav .navegador li a:focus {
     background-size: 100% 2px;
 }
 
-.whatsapp {
+.whatsapp{
     position: fixed;
     border-radius: 50%;
     right: 25px;
