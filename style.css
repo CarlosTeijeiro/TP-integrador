@@ -126,6 +126,10 @@ nav .navegador li a:hover , nav .navegador li a:focus {
     z-index: 1;
 }
 
+.whatsapp img{
+    width: 60px;
+}
+
 .banner {
     background: url(./img/pexels-li-sun-2294361.jpg) no-repeat center;
     background-size: cover;
